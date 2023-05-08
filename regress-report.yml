@@ -1,37 +1,38 @@
 ---
-- summary: |
+test cases:
+  - summary: |
     Поиск товара по ключевому слову
   status: pass
-  
-- summary: |
+ 
+  - summary: |
     Поиск товара по категории
   status: pass
   
-- summary: |
+  - summary: |
     Поиск товара по производителю
   status: pass
   
-- summary: |
+  - summary: |
     Фильтрация списка товара по диапазону цен
   status: pass
   
-- summary: |
+  - summary: |
     Товары добавлены и отображаются в корзине
   status: fail
   
-- summary: |
+  - summary: |
     Переход пользователя в раздел "Корзина" с главной страницы магазина
   status: pass
   
-- summary: |
+  - summary: |
     Удаление товара из раздела "Корзина"
   status: pass
   
-- summary: |
+  - summary: |
     Удаление нескольких товара из раздела "Корзина" путем очистки
   status: pass
   
-- summary: |
+  - summary: |
     Фильтрация списка товаров по наличию в магазине
   status: pass
   
